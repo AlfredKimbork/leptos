@@ -1,0 +1,9 @@
+/Users/alfredkimbork/leptos/todo-app/target/debug/deps/js_sys-9cc58d0709dfa50b.d: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/mod.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/jspi.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/queue.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/task/singlethread.rs
+
+/Users/alfredkimbork/leptos/todo-app/target/debug/deps/libjs_sys-9cc58d0709dfa50b.rmeta: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/mod.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/jspi.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/queue.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/task/singlethread.rs
+
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/lib.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/mod.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/jspi.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/queue.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/js-sys-0.3.107/src/futures/task/singlethread.rs:

@@ -1,0 +1,10 @@
+/Users/alfredkimbork/leptos/todo-app/target/debug/deps/serde_qs-bd4a6b91ca42f36e.d: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/de/mod.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/de/parse.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/error.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/ser.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/utils.rs
+
+/Users/alfredkimbork/leptos/todo-app/target/debug/deps/libserde_qs-bd4a6b91ca42f36e.rmeta: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/de/mod.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/de/parse.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/error.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/ser.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/utils.rs
+
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/lib.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/de/mod.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/de/parse.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/error.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/ser.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_qs-0.15.0/src/utils.rs:

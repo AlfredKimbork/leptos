@@ -1,0 +1,14 @@
+/Users/alfredkimbork/leptos/todo-app/target/debug/deps/thiserror-d3dac9b86d63e702.d: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /Users/alfredkimbork/leptos/todo-app/target/debug/build/thiserror-3cb63ba5ac92a0d7/out/private.rs
+
+/Users/alfredkimbork/leptos/todo-app/target/debug/deps/libthiserror-d3dac9b86d63e702.rlib: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /Users/alfredkimbork/leptos/todo-app/target/debug/build/thiserror-3cb63ba5ac92a0d7/out/private.rs
+
+/Users/alfredkimbork/leptos/todo-app/target/debug/deps/libthiserror-d3dac9b86d63e702.rmeta: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /Users/alfredkimbork/leptos/todo-app/target/debug/build/thiserror-3cb63ba5ac92a0d7/out/private.rs
+
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs:
+/Users/alfredkimbork/leptos/todo-app/target/debug/build/thiserror-3cb63ba5ac92a0d7/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/alfredkimbork/leptos/todo-app/target/debug/build/thiserror-3cb63ba5ac92a0d7/out

@@ -1,0 +1,10 @@
+/Users/alfredkimbork/leptos/todo-app/target/wasm32-unknown-unknown/debug/deps/leptos_dom-a29224f4b4322a54.d: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/helpers.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/macro_helpers/mod.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/logging.rs
+
+/Users/alfredkimbork/leptos/todo-app/target/wasm32-unknown-unknown/debug/deps/libleptos_dom-a29224f4b4322a54.rlib: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/helpers.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/macro_helpers/mod.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/logging.rs
+
+/Users/alfredkimbork/leptos/todo-app/target/wasm32-unknown-unknown/debug/deps/libleptos_dom-a29224f4b4322a54.rmeta: /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/lib.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/helpers.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/macro_helpers/mod.rs /Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/logging.rs
+
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/lib.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/helpers.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/macro_helpers/mod.rs:
+/Users/alfredkimbork/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_dom-0.8.8/src/logging.rs:
