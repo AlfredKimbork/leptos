@@ -61,6 +61,10 @@ pnpm-debug.log*
 # PHP / Composer
 vendor/
 
+# Rust
+*.lock
+target/
+
 # Coverage / Testing
 coverage/
 .nyc_output/
